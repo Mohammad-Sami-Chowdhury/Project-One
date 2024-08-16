@@ -11,6 +11,9 @@
     #footer .footer-bottom-parent-sm{
         display: none;
     }
+    #service .blog-btn{
+        display: none;
+    }
 }
 @media (min-width: 0px) and (max-width: 575.98px) { 
     #banner .banner-heading h1 {
@@ -93,7 +96,7 @@
     #choose .choose-right-txt p {
         line-height: 24px;
         font-size: 13px;;
-        width: auto;
+        width: 380px;
         padding-bottom: 41px;
         padding-bottom: 5px;
         text-align: center;
@@ -127,12 +130,15 @@
     #service .service-txt p {
         font-size: 13px;
         line-height: 24px;
-        width: auto;
+        width: 270px;
         margin: 0 auto;
     }
     #service .service-txt{
         margin: 0 auto;
         text-align: center;
+    }
+    #service .service-btn-p{
+        display: none;
     }
     #service .choose-btn a {
         font-size: 13px;
@@ -153,6 +159,7 @@
     #service .service-one-txt p {
         font-size: 13px;
         line-height: 24px;
+        width: 236px;
         margin: 0 auto;
     }
     #service .service-section .service-btn-p a {
@@ -172,6 +179,10 @@
         padding-top: 80px;
         padding-bottom: 35px;
     }
+    #service .blog-btn {
+        margin: 0 auto;
+        padding-top: 25px;
+    }
     #service .service-section .service-btn-p {
         margin-top: 30px;
     }
@@ -183,7 +194,7 @@
     #portfolio .portfolio-top p {
         font-size: 13px;
         line-height: 24px;
-        width: auto;
+        width: 400px;
         margin: 0 auto;
         text-align: center;
     }
@@ -306,7 +317,7 @@
         text-align: center;
         margin: 0 auto;
     }
-    #blog .blog-details .blog-btn {
+    .blog-btn {
         margin: 0 auto;
         padding-top: 25px;
     }
