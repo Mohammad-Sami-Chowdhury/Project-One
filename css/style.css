@@ -488,7 +488,7 @@ h1, h2, h3, h4, h5, h6, p{
     color: #141135;
     padding-bottom: 215px;
 }
-#price .p-sect h4 span{
+/* #price .p-sect h4 span{
     font-family: "Quicksand", sans-serif;
     font-size: 24px;
     font-weight: 500;
@@ -498,6 +498,15 @@ h1, h2, h3, h4, h5, h6, p{
     top: 0px;
     left: 155px;
     
+} */
+#price .p-sect h5 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #1BBF00;
+    position: static;
+    transform: translate(-50px, 35px);
+    line-height: 25px;
+    font-family: "Quicksand", sans-serif;
 }
 #price .p-sect h4{
     font-family: "Nunito", sans-serif;
