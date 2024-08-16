@@ -93,7 +93,7 @@
     #choose .choose-right-txt p {
         line-height: 24px;
         font-size: 13px;;
-        width: 380px;
+        width: auto;
         padding-bottom: 41px;
         padding-bottom: 5px;
         text-align: center;
@@ -127,7 +127,7 @@
     #service .service-txt p {
         font-size: 13px;
         line-height: 24px;
-        width: 270px;
+        width: auto;
         margin: 0 auto;
     }
     #service .service-txt{
@@ -153,7 +153,6 @@
     #service .service-one-txt p {
         font-size: 13px;
         line-height: 24px;
-        width: 236px;
         margin: 0 auto;
     }
     #service .service-section .service-btn-p a {
@@ -184,7 +183,7 @@
     #portfolio .portfolio-top p {
         font-size: 13px;
         line-height: 24px;
-        width: 400px;
+        width: auto;
         margin: 0 auto;
         text-align: center;
     }
