@@ -356,7 +356,7 @@ h1, h2, h3, h4, h5, h6, p{
     z-index: 1;
 }
 #service .service-section .service-btn-p .service-btn {
-    width: 27px;
+    width: 30px;
     height: 40px;
     border-radius: 0 100px 100px 0;
     background-color: rgba(25, 191, 0, 0.5);
@@ -719,11 +719,11 @@ h1, h2, h3, h4, h5, h6, p{
     letter-spacing: -1.5px;
     width: 504px;
 }
-#blog .blog-details .blog-btn{
+.blog-btn{
     width: 100px;
     position: relative;
 }
-#blog .blog-details .blog-btn a{
+.blog-btn a{
     font-family: "Open Sans", sans-serif;
     font-size: 18px;
     line-height: 24px;
@@ -731,7 +731,7 @@ h1, h2, h3, h4, h5, h6, p{
     color: black;
     text-decoration: none;
 }
-#blog .blog-details .blog-btn .blog-btn-bg{
+.blog-btn .blog-btn-bg{
     width: 30px;
     height: 40px;
     background-color: rgba(25, 189, 0, 0.3);
@@ -740,7 +740,7 @@ h1, h2, h3, h4, h5, h6, p{
     right: -10px;
     bottom: -7px;
 }
-#blog .blog-details .blog-btn:hover .blog-btn-bg{
+.blog-btn:hover .blog-btn-bg{
     width: 125px;
     transition: all linear 0.5s;
     border-radius: 100px 100px 100px 100px;
