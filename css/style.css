@@ -684,6 +684,7 @@ h1, h2, h3, h4, h5, h6, p{
 #blog .blog-one{
     justify-content: space-between;
     padding-bottom: 60px;
+    display: flex;
 }
 #blog .blog-one:last-child{
     padding-bottom: 0px;
