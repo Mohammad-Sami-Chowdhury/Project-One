@@ -194,7 +194,7 @@
     #portfolio .portfolio-top p {
         font-size: 13px;
         line-height: 24px;
-        width: 400px;
+        width: auto;
         margin: 0 auto;
         text-align: center;
     }
