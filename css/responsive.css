@@ -23,7 +23,7 @@
     #banner .banner-para p {
         font-size: 13px;
         line-height: 25px;
-        width: 335px;
+        width: auto;
         margin: 0 auto;
     }
     #banner .banner-btn-two {
@@ -64,7 +64,7 @@
         padding-bottom: 0px;
     }
     #choose .choose-left-txt p {
-        width: 460px;
+        width: auto;
     }
     #counter .counter-txt .happy::after {
         display: none;
@@ -96,7 +96,7 @@
     #choose .choose-right-txt p {
         line-height: 24px;
         font-size: 13px;;
-        width: 380px;
+        width: auto;
         padding-bottom: 41px;
         padding-bottom: 5px;
         text-align: center;
@@ -130,7 +130,7 @@
     #service .service-txt p {
         font-size: 13px;
         line-height: 24px;
-        width: 270px;
+        width: auto;
         margin: 0 auto;
     }
     #service .service-txt{
@@ -159,7 +159,7 @@
     #service .service-one-txt p {
         font-size: 13px;
         line-height: 24px;
-        width: 236px;
+        width: auto;
         margin: 0 auto;
     }
     #service .service-section .service-btn-p a {
@@ -244,7 +244,7 @@
     #portfolio .p-l-one-txt p {
         font-size: 13px;
         line-height: 24px;
-        width: 315px;
+        width: auto;
         text-align: center;
     }
     #portfolio .pl-parent{
