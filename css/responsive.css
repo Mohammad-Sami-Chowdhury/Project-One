@@ -79,6 +79,9 @@
     #choose .choose-left{
         padding: 20px 0px 20px 0px;
     }
+    #choose .left-img img{
+        width: 100%
+    }
     #choose .choose-left-txt p {
         font-size: 14px;
         line-height: 15px;
