@@ -340,7 +340,7 @@
     }
     #footer .footer-first-p p {
         font-size: 13px;
-        width: 350px;
+        width: auto;
         line-height: 150%;
         padding-top: 25px;
         text-align: center;
